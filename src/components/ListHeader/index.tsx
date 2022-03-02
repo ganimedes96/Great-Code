@@ -81,7 +81,7 @@ export const ListHeader = () => {
           maxWidth={1140}
           align="center"
           justify="space-between"
-          padding=" 2rem "
+          padding={{base:" .5rem 2rem",md: "2rem"}}
         >
           
           <Box
