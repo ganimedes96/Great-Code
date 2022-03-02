@@ -8,7 +8,6 @@ import {
   DrawerOverlay,
   Flex,
   Heading,
-  Icon,
   IconButton,
   Image,
   Stack,
@@ -17,7 +16,6 @@ import {
 } from "@chakra-ui/react";
 import { ButtonCoffee } from "../ButtonCoffee";
 import { MenuList } from "../MenuList";
-import { RiMenuLine } from "react-icons/all";
 import Lottie from 'react-lottie';
 import Coffee from '../../../coffee.json'
 
@@ -107,7 +105,7 @@ export const ListHeader = () => {
               <IconButton
                 color='purple.500'
                 aria-label="Open navigation"
-                icon={<Icon as={RiMenuLine} />}
+                icon={<Image w='30px' h='30px' src='image/menu.png'/>}
                 fontSize="24"
                 variant="unstyled"
                 onClick={onOpen}
