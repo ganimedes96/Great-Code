@@ -70,7 +70,7 @@ export default function PurpleCoffee() {
             zIndex='-10'
             visibility={{base:'visible',md:'hidden'}}
              pos="absolute"
-             src="image/blur.svg"
+             src="/image/blur.svg"
              alt="light-mobile"
              bottom="0"
              w='100%'
