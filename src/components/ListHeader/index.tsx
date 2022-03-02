@@ -41,7 +41,7 @@ export const ListHeader = () => {
   });
   return (
     <>
-        <Drawer  size='xs' isOpen={isOpen} placement='right' onClose={onClose}>
+        <Drawer  size='md' isOpen={isOpen} placement='right' onClose={onClose}>
           <DrawerOverlay >
               <DrawerContent  bg='dark.900'>
                     <DrawerCloseButton mt={2} color='purple.500' />
