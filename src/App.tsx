@@ -13,7 +13,7 @@ import { ListHeader } from "./components/ListHeader";
 
 import { MotionImage,AnimationDown,AnimationUp}from './styles/animation'
 import Lottie from 'react-lottie';
-import Programing from '../public/image/programing.json'
+import Programing from '../programing.json'
 
 
 export default function PurpleCoffee() {
@@ -123,16 +123,7 @@ export default function PurpleCoffee() {
               
                 />
           </Box>
-                {/* <MotionImage
-                  src="image/Img.svg"
-                  alt="Coffee"
-                  position="absolute"
-                  bottom="0"
-                  initial='hidden'
-                  animate="visible"
-                  variants={AnimationDown}
-                  
-                /> */}
+                
          
         </Flex>
       </Flex>

@@ -19,7 +19,7 @@ import { ButtonCoffee } from "../ButtonCoffee";
 import { MenuList } from "../MenuList";
 import { RiMenuLine } from "react-icons/all";
 import Lottie from 'react-lottie';
-import Coffee from '../../../public/image/coffee.json'
+import Coffee from '../../../coffee.json'
 
 
 
