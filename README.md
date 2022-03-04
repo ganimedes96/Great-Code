@@ -4,5 +4,5 @@
 </h1>
 
 <p align="center">
-  <img alt="Great Code" src="public/image/wide.png" width="100%">
+  <img alt="Great Code" src="public/image/wide.jpg" width="100%">
 </p>
