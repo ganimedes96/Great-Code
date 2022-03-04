@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Essa landing page foi contruida para fins de estudo 
+Essa landing page foi construida para fins de estudo 
