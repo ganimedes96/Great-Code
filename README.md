@@ -6,3 +6,9 @@
 <p align="center">
   <img alt="Great Code" src="public/image/wide.jpg" width="100%">
 </p>
+
+<br>
+
+<p align="center">
+  <img alt="Mobile image" src="public/image/mobile.jpg" width="100%">
+</p>
