@@ -9,6 +9,7 @@
 
 <br>
 
+<h2 align="center">Version Mobile</h2>
 <p align="center">
-  <img alt="Mobile image" src="public/image/mobile.jpg" width="20%">
+  <img alt="Mobile image" src="public/image/mobile.jpg" width="30%">
 </p>
