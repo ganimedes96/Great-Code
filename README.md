@@ -10,5 +10,5 @@
 <br>
 
 <p align="center">
-  <img alt="Mobile image" src="public/image/mobile.jpg" width="100%">
+  <img alt="Mobile image" src="public/image/mobile.jpg" width="20%">
 </p>
