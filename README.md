@@ -13,3 +13,16 @@
 <p align="center">
   <img alt="Mobile image" src="public/image/mobile.jpg" width="30%">
 </p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-[React.js](https://reactjs.org)
+-[Chakra ui](https://chakra-ui.com)
+-[Framer MOtion](https://www.framer.com/motion/)
+-[LottieFiles](https://lottiefiles.com)
+
+## 💻 Projeto
+
+Essa landing page foi contruida para fins de estudo 
