@@ -1,0 +1,35 @@
+{
+    "name": "Great-Code",
+    "short_description": " homepage para uma marca de café.",
+    "description": " homepage para uma marca de café.",
+    "images": [
+      "https://raw.githubusercontent.com/ganimedes96/dtmoney/main/.github/d.jpg"
+    ],
+    "videos": [
+      "https://user-images.githubusercontent.com/59948274/161394903-2b8aa52a-6d14-4ee8-b8aa-bc42c67ab50e.mp4"
+    ],
+    "link_preview": "https://github.com/ganimedes96/Great-Code",
+    "techs": [
+      {
+        "name": "React.js",
+        "url": "https://reactjs.org/"
+      },
+      {
+          "name":"Vite",
+          "url":"https://vitejs.dev"
+      },
+      
+      {
+        "name": "Typescript",
+        "url": "https://www.typescriptlang.org/"
+      },
+      {
+        "name": "Eslint",
+        "url": "https://eslint.org/"
+      },
+      {
+        "name": "Chakra ui",
+        "url": "https://chakra-ui.com"
+      }
+    ]
+  }

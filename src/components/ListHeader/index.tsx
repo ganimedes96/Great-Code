@@ -41,7 +41,7 @@ export const ListHeader = () => {
   });
   return (
     <>
-        <Drawer  size='xs' isOpen={isOpen} placement='right' onClose={onClose}>
+        <Drawer  size='md' isOpen={isOpen} placement='right' onClose={onClose}>
           <DrawerOverlay >
               <DrawerContent  bg='dark.900'>
                     <DrawerCloseButton mt={2} color='purple.500' />
@@ -73,7 +73,8 @@ export const ListHeader = () => {
         borderBottomWidth={{ base: "1px", md: "0" }} 
         as='header'
         borderColor='#5a5454'
-        mt='-1rem'  
+        mb='-2rem'
+        
          >
         <Flex
           w="100vw"
@@ -81,7 +82,8 @@ export const ListHeader = () => {
           maxWidth={1140}
           align="center"
           justify="space-between"
-          padding=" 2rem "
+          padding='2rem'
+          pb='-1'
         >
           
           <Box
