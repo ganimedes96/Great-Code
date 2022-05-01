@@ -3,7 +3,8 @@
     "short_description": " homepage para uma marca de café.",
     "description": " homepage para uma marca de café.",
     "images": [
-      "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/Great-Code.jpg"
+      "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/Great-Code.jpg",
+      "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/mobile.jpg",
     ],
     "videos": [
         "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/code.mp4"
