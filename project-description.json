@@ -1,35 +1,41 @@
 {
     "name": "Great-Code",
-    "short_description": " homepage para uma marca de café.",
-    "description": " homepage para uma marca de café.",
-    "images": [
-      "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/Great-Code.jpg"
-    ],
-    "videos": [
-        "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/code.mp4"
-    ],
-    "link_preview": "https://github.com/ganimedes96/Great-Code",
-    "techs": [
+    "short_description": "Essa landing page foi construida para fins de estudo.",
+    "description": "Essa landing page foi construida para fins de estudo.",
+   
+    "link_preview": "https://great-code.vercel.app",
+    
+   "techs": [
       {
         "name": "React.js",
-        "url": "https://reactjs.org/"
+        "url": "https://reactjs.org"
       },
       {
-          "name":"Vite",
-          "url":"https://vitejs.dev"
+          "name":"Chakra ui",
+          "https://chakra-ui.com"
       },
       
       {
-        "name": "Typescript",
-        "url": "https://www.typescriptlang.org/"
+        "name": "Framer Motion",
+        "url": "https://www.framer.com/motion/"
       },
       {
-        "name": "Eslint",
-        "url": "https://eslint.org/"
+        "name": "LottieFiles",
+        "url": "https://lottiefiles.com"
       },
       {
-        "name": "Chakra ui",
-        "url": "https://chakra-ui.com"
+        "name":"TypeScript",
+        "url":"https://www.typescriptlang.org"
       }
+      
+    ],
+   "images": [
+     "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/Great-Code.jpg",
+     "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/mobile.jpg"  
+      
+ 
+    ],
+    "videos": [
+        "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/code.mp4"
     ]
   }
