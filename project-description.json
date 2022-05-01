@@ -8,7 +8,7 @@
     "videos": [
         "https://raw.githubusercontent.com/ganimedes96/Great-Code/main/.github/code.mp4"
     ],
-    "link_preview": "https://github.com/ganimedes96/Great-Code",
+    "link_preview": "https://great-code.vercel.app",
     "techs": [
       {
         "name": "React.js",
